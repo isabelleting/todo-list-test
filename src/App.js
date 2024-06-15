@@ -16,7 +16,7 @@ function App() {
 
   return (
     <div>
-      <h1>TODO</h1>
+      <h1>TO DO</h1>
       <TodoList items={items} />
       <form onSubmit={handleSubmit}>
         <label id="add-todo" htmlFor="new-todo">
