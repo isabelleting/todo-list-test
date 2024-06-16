@@ -20,7 +20,7 @@ function App() {
       <TodoList items={items} />
       <form onSubmit={handleSubmit}>
         <label id="add-todo" htmlFor="new-todo">
-         Add todo: {" "}
+         Add Todo: {" "}
         </label>
         <input
           id="new-todo"

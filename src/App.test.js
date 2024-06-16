@@ -5,7 +5,7 @@ test('ToDo', () => {
   const {getByText,getByLabelText} = render(<App/>);
 
   getByText('TO DO');
-  getByLabelText('Add todo:');
+  getByLabelText('Add Todo:');
   getByText('Add #1');  
 });
 
