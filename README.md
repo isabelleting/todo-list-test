@@ -8,9 +8,9 @@ Live Demo @: https://courso-18766.firebaseapp.com/
 
 ## Local Installation Guidelines
 
-- First `git clone` this repo, **cd todo-list-test**, and run **npm install**. 
-- Run **npm start** to start the server and create react app will open a new browser window or navigate to **localhost:3000** to use this to do list app. 
-- Use **npm test** to run the test suite with Jest. 
+- First `git clone` this repo, `cd todo-list-test`, and run `npm install`. 
+- Run `npm start` to start the server and create react app will open a new browser window or navigate to **localhost:3000** to use this to do list app. 
+- Use `npm test` to run the test suite with Jest. 
 
 ## Screenshots
 
