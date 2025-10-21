@@ -2,7 +2,7 @@
 
 ## Description 
 
-A to do list application with MIT xPro. Built with React and Node.js along with testing with React testing library and Jest. Deployed to Firebase through Github Actions Continuous Deployment. Live Demo @: https://courso-18766.firebaseapp.com/ 
+A to do list application with MIT xPro. Built with React and Node.js along with testing using React testing library and Jest. Deployed to Firebase through Github Actions Continuous Deployment. Live Demo @: https://courso-18766.firebaseapp.com/ 
 
 ## Local Installation Guidelines
 
